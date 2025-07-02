@@ -1,16 +1,52 @@
-## Hi there 👋
+# Sarah Borgelt
 
-<!--
-**SarahBorgelt/SarahBorgelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal code repository! This space includes practice projects, experiments, and progress as I learn software development.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer-in-training focused on growing my skills in:
+
+- JavaScript
+- HTML & CSS
+- Frontend development
+- Personal finance tools
+- Web-based games
+- Java
+- Python
+
+## 📁 Current Projects
+
+- 🎯 **Guess the Number** – A simple number guessing game built in JavaScript.
+- 🔮 **Fortune Teller** – Fun, interactive fortune-telling mini app.
+- 💰 **Personal Finance Tool** – Currently working on Monte Carlo simulations and other budgeting tools in Visual Studio Code.
+
+## 🚧 In Progress
+
+- More mini games
+- Responsive design updates
+- Improved UI/UX
+- Additional interactive tools
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 🎓 Learning Resources
+
+I’m currently learning through:
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- Tech Elevator bootcamp
+- Southern New Hampshire University
+- Self-led projects
+
+## 📬 Contact
+
+If you want to collaborate or connect, feel free to reach out!
+
+---
+
+> 💡 _This repo is a living document and will grow as I do._ Thanks for stopping by!
