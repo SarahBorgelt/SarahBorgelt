@@ -18,7 +18,6 @@ I'm a software developer-in-training focused on growing my skills in:
 
 - 🎯 **Guess the Number** – A simple number guessing game built in JavaScript.
 - 🔮 **Fortune Teller** – Fun, interactive fortune-telling mini app.
-- 💰 **Personal Finance Tool** – Currently working on Monte Carlo simulations and other budgeting tools in Visual Studio Code.
 
 ## 🚧 In Progress
 
