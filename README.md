@@ -1,51 +1,29 @@
 # Sarah Borgelt
 
-Welcome to my personal code repository! This space includes practice projects, experiments, and progress as I learn software development.
+Hi! I’m Sarah, a software developer-in-training passionate about building clean, functional web applications and backend systems.
 
-## 🧠 About Me
+## 🧠 Skills
 
-I'm a software developer-in-training focused on growing my skills in:
+**Frontend:** HTML, CSS (Tailwind, Bootstrap), JavaScript  
+**Backend:** Java, Spring Boot, Python  
+**Tools:** Git & GitHub, IntelliJ, VS Code  
 
-- JavaScript
-- HTML & CSS
-- Frontend development
-- Personal finance tools
-- Web-based games
-- Java
-- Python
+## 📁 Projects
 
-## 📁 Current Projects
+- 📈 **Stock Market Evaluator** – Evaluates index ETFs using metrics like P/E and Sharpe Ratios 
+- 🏠 **Rental Property Management System** – Tracks income, expenses, upgrades; generates financial reports
 
-- 🎯 **Guess the Number** – A simple number guessing game built in JavaScript.
-- 🔮 **Fortune Teller** – Fun, interactive fortune-telling mini app.
+## 🎓 Learning
 
-## 🚧 In Progress
-
-- More mini games
-- Responsive design updates
-- Improved UI/UX
-- Additional interactive tools
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-
-## 🎓 Learning Resources
-
-I’m currently learning through:
-
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- Tech Elevator bootcamp
-- Southern New Hampshire University
-- Self-led projects
+- [freeCodeCamp](https://www.freecodecamp.org/)  
+- Tech Elevator Bootcamp  
+- Southern New Hampshire University  
+- Hands-on projects & experiments
 
 ## 📬 Contact
 
-If you want to collaborate or connect, feel free to reach out!
+Open to collaborations and networking! Connect via [LinkedIn](#) or email at borgelt.sarah@gmail.com.
 
 ---
 
-> 💡 _This repo is a living document and will grow as I do._ Thanks for stopping by!
+💡 _This repository grows as I learn and build new projects—thanks for stopping by!_
