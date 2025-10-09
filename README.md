@@ -5,7 +5,7 @@ Hi! I’m Sarah, a software developer-in-training passionate about building clea
 ## 🧠 Skills
 
 **Frontend:** HTML, CSS (Tailwind, Bootstrap), JavaScript  
-**Backend:** Java, Spring Boot, Python  
+**Backend:** Java, Spring Boot
 **Tools:** Git & GitHub, IntelliJ, VS Code  
 
 ## 📁 Projects
