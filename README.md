@@ -4,9 +4,17 @@ Hi! I’m Sarah, a software developer-in-training passionate about building clea
 
 ## 🧠 Skills
 
-**Frontend:** HTML, CSS (Tailwind, Bootstrap), JavaScript  
-**Backend:** Java, Spring Boot
-**Tools:** Git & GitHub, IntelliJ, VS Code  
+**Frontend:** HTML, CSS (Tailwind, Bootstrap), JavaScript, React
+
+**Backend:** Java, Spring Boot, JDBC
+
+**Database:** PostgreSQL, SQL, Table Design, E/R Diagrams
+
+**Testing:** JUnit (Unit & Integration Testing)
+
+**Tools:** Git & GitHub, IntelliJ, VS Code
+
+**Methodologies:** Agile
 
 ## 📁 Projects
 
@@ -22,7 +30,7 @@ Hi! I’m Sarah, a software developer-in-training passionate about building clea
 
 ## 📬 Contact
 
-Open to collaborations and networking! Connect via [LinkedIn](#) or email at borgelt.sarah@gmail.com.
+Open to collaborations and networking! Connect via [LinkedIn](#www.linkedin.com/in/sarahnicole1) or email at borgelt.sarah@gmail.com.
 
 ---
 
