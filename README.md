@@ -17,8 +17,8 @@ Hi! I’m Sarah, a software developer-in-training passionate about building clea
 **Methodologies:** Agile
 
 ## 📁 Projects
-- 🌮 **Personal Meal Planner** – Building a full-stack meal tracking app with persistent database storage and user authentication.
-- 🌃 **Choose Date Night** – Developing a React frontend and integrating database support for curated date ideas.
+- 🌮 **Personal Meal Planner** – Adding persistent database storage and user authentication.
+- 🌃 **Choose Date Night** – Developing a frontend and integrating database support for curated date ideas.
 - 📈 **Stock Market Evaluator** – Evaluates index ETFs using metrics like P/E and Sharpe Ratios 
 - 🏠 **Rental Property Management System** – Tracks income, expenses, upgrades; generates financial reports
 
