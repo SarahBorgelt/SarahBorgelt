@@ -1,6 +1,6 @@
 # Sarah Borgelt
 
-Hi! I’m Sarah, a software developer-in-training passionate about building clean, functional web applications and backend systems.
+Hi! I’m Sarah, a software developer who is passionate about building clean, functional web applications and backend systems.
 
 ## 🧠 Skills
 
@@ -18,7 +18,8 @@ Hi! I’m Sarah, a software developer-in-training passionate about building clea
 
 ## 📁 Projects
 - 🌮 **Personal Meal Planner** – Adding persistent database storage and user authentication.
-- 🌃 **Choose Date Night** – Developing a frontend and integrating database support for curated date ideas.
+- 🌃 **Choose Date Night** – Adding unit testing to ensure stability and maintainability
+- 💵 **TEBucks** - Adding unit testing to ensure stability and maintainability
 - 📈 **Stock Market Evaluator** – Evaluates index ETFs using metrics like P/E and Sharpe Ratios 
 - 🏠 **Rental Property Management System** – Tracks income, expenses, upgrades; generates financial reports
 
