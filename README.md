@@ -18,9 +18,9 @@ Hi! I’m Sarah, a software developer who is passionate about building clean, fu
 
 ## 📁 Projects
 - 🌮 **Personal Meal Planner** – Adding persistent database storage and user authentication.
-- 🌃 **Choose Date Night** – Adding unit testing to ensure stability and maintainability
-- 💵 **TEBucks** - Adding unit testing to ensure stability and maintainability
+
 - 📈 **Stock Market Evaluator** – Evaluates index ETFs using metrics like P/E and Sharpe Ratios 
+
 - 🏠 **Rental Property Management System** – Tracks income, expenses, upgrades; generates financial reports
 
 ## 🎓 Learning
