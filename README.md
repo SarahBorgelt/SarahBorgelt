@@ -17,7 +17,8 @@ Hi! I’m Sarah, a software developer who is passionate about building clean, fu
 **Methodologies:** Agile
 
 ## 📁 Current Projects in Progress
-- 🌮 **Personal Meal Planner** – Refactoring existing program to add persistent database storage and user authentication
+- 🌱 **Self-Care App** -
+A self-care app to track your goals and progress by using a point system to encourage users to level up
 
 - 📈 **Stock Market Evaluator** – Evaluates index ETFs using metrics like P/E and Sharpe Ratios 
 
